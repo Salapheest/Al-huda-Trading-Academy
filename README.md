@@ -1,6 +1,7 @@
 Al-Huda Trading Academy
 
 Welcome to Al-Huda Trading Academy
+
 Al-Huda Trading Academy is a leading educational platform for decentralized exchange (DEX) trading. We provide comprehensive training and resources to empower traders with the knowledge and skills needed to succeed in the cryptocurrency market.
 
 Our Mission
