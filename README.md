@@ -19,4 +19,4 @@ Join Our Community
 - Participate in discussions and share your knowledge
 
 Contact Us
-- https://chat.what# Al-huda-Trading-Academy
+- https://chat.whatsapp.com/Gv9cXZAoNRb22Syv9v0SgK
