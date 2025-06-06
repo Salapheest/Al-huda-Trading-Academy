@@ -1,4 +1,6 @@
 body {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
   background: whitesmoke;
 }
 
@@ -35,5 +37,26 @@ img {
   margin-bottom: 20px;
   margin-left: 30px;
   width: 100px;
-  border-radius: 30px;
+  border-radius: 15px;
+}
+
+.footer-text {
+  text-align: center;
+}
+
+a {
+  text-decoration: none; /* Remove underline */
+  color: #337ab7; /* Change link color */
+}
+
+a:hover {
+  color: #23527c; /* Change link color on hover */
+}
+
+a:active {
+  color: #337ab7; /* Change link color when active */
+}
+
+a:visited {
+  color: #666; /* Change link color after visited */
 }
